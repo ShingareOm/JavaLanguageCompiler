@@ -4,8 +4,6 @@
 // This project is under the MIT License.
 // This project is created by Om Shingare.
 // This project is created on 26th of July 2023.
-// This project is created in India.
-// This project is created in Maharashtra.
 
 #include<stdio.h>
 #include<stdlib.h>
